@@ -14,5 +14,6 @@
 ### JS
 * [**MDN JS Reference** (More useful as an API reference than a language reference)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
-### General Frong End
+### General Front End
 * [**Front End Checklist** (Best practices in HTML, CSS, and JS)](https://github.com/thedaviddias/Front-End-Checklist)
+* [**Netlify Drop**](https://app.netlify.com/drop)
